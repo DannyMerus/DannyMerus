@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DannyMerus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Slack OR danny@meruscase.com
+- 👋 Hi, I’m @DannyMerus, Merus means thigh
 
 <!---
 DannyMerus/DannyMerus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
